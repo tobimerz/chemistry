@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg version="1.2" baseProfile="tiny" width="105mm" height="148mm" viewBox="0 0 10500 14800" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+ <defs>
+  <font id="EmbeddedFont_1" horiz-adv-x="2048">
+   <font-face font-family="Arial embedded" units-per-em="2048" font-weight="normal" font-style="normal" ascent="1852" descent="450"/>
+   <missing-glyph horiz-adv-x="2048" d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"/>
+   <glyph unicode="t" horiz-adv-x="504" d="M 528,161 L 554,2 C 503,-9 458,-14 418,-14 353,-14 302,-4 266,17 230,38 205,65 190,99 175,132 168,203 168,311 L 168,922 36,922 36,1062 168,1062 168,1325 347,1433 347,1062 528,1062 528,922 347,922 347,301 C 347,250 350,217 357,202 363,187 373,176 388,167 402,158 422,154 449,154 469,154 495,156 528,161 Z"/>
+   <glyph unicode="s" horiz-adv-x="874" d="M 63,317 L 241,345 C 251,274 279,219 325,181 370,143 434,124 516,124 599,124 660,141 700,175 740,208 760,248 760,293 760,334 742,366 707,389 682,405 621,425 523,450 391,483 300,512 249,537 198,561 159,595 133,638 106,681 93,728 93,780 93,827 104,871 126,912 147,952 177,985 214,1012 242,1033 280,1050 329,1065 377,1079 429,1086 484,1086 567,1086 641,1074 704,1050 767,1026 813,994 843,953 873,912 894,857 905,788 L 729,764 C 721,819 698,861 660,892 621,923 567,938 497,938 414,938 355,924 320,897 285,870 267,838 267,801 267,778 274,757 289,738 304,719 327,703 358,690 376,683 429,668 517,644 644,610 733,582 784,561 834,539 873,507 902,466 931,425 945,373 945,312 945,252 928,196 893,143 858,90 807,49 741,20 675,-9 600,-24 517,-24 379,-24 274,5 202,62 129,119 83,204 63,317 Z"/>
+   <glyph unicode="p" horiz-adv-x="901" d="M 135,-407 L 135,1062 299,1062 299,924 C 338,978 381,1019 430,1046 479,1073 538,1086 607,1086 698,1086 778,1063 847,1016 916,969 969,904 1004,819 1039,734 1057,640 1057,539 1057,430 1038,333 999,246 960,159 903,92 829,46 754,-1 676,-24 594,-24 534,-24 480,-11 433,14 385,39 346,71 315,110 L 315,-407 135,-407 Z M 298,525 C 298,388 326,287 381,222 436,157 503,124 582,124 662,124 731,158 788,226 845,293 873,398 873,540 873,675 845,777 790,844 734,911 667,945 590,945 513,945 446,909 387,838 328,766 298,662 298,525 Z"/>
+   <glyph unicode="o" horiz-adv-x="980" d="M 68,531 C 68,728 123,873 232,968 323,1047 435,1086 566,1086 712,1086 831,1038 924,943 1017,847 1063,715 1063,546 1063,409 1043,302 1002,224 961,145 901,84 823,41 744,-2 659,-24 566,-24 417,-24 297,24 206,119 114,214 68,352 68,531 Z M 253,531 C 253,395 283,293 342,226 401,158 476,124 566,124 655,124 730,158 789,226 848,294 878,398 878,537 878,668 848,768 789,836 729,903 655,937 566,937 476,937 401,903 342,836 283,769 253,667 253,531 Z"/>
+   <glyph unicode="n" horiz-adv-x="848" d="M 135,0 L 135,1062 297,1062 297,911 C 375,1028 488,1086 635,1086 699,1086 758,1075 812,1052 865,1029 905,998 932,961 959,924 977,879 988,828 995,795 998,736 998,653 L 998,0 818,0 818,646 C 818,719 811,774 797,811 783,847 758,876 723,898 687,919 645,930 597,930 520,930 454,906 399,857 343,808 315,716 315,580 L 315,0 135,0 Z"/>
+   <glyph unicode="d" horiz-adv-x="927" d="M 824,0 L 824,134 C 757,29 658,-24 527,-24 442,-24 365,-1 294,46 223,93 168,158 129,242 90,325 70,421 70,530 70,636 88,732 123,819 158,905 211,971 282,1017 353,1063 432,1086 519,1086 583,1086 640,1073 690,1046 740,1019 781,983 812,940 L 812,1466 991,1466 991,0 824,0 Z M 255,530 C 255,394 284,292 341,225 398,158 466,124 544,124 623,124 690,156 745,221 800,285 827,383 827,515 827,660 799,767 743,835 687,903 618,937 536,937 456,937 389,904 336,839 282,774 255,671 255,530 Z"/>
+   <glyph unicode="b" horiz-adv-x="901" d="M 301,0 L 134,0 134,1466 314,1466 314,943 C 390,1038 487,1086 605,1086 670,1086 732,1073 791,1047 849,1020 897,983 935,936 972,888 1002,830 1023,763 1044,696 1055,624 1055,547 1055,365 1010,224 920,125 830,26 722,-24 596,-24 471,-24 372,28 301,133 L 301,0 Z M 299,539 C 299,412 316,320 351,263 408,170 484,124 581,124 660,124 728,158 785,227 842,295 871,397 871,532 871,671 844,773 789,839 734,905 667,938 589,938 510,938 442,904 385,836 328,767 299,668 299,539 Z"/>
+   <glyph unicode="a" horiz-adv-x="980" d="M 828,131 C 761,74 697,34 636,11 574,-12 508,-24 437,-24 320,-24 231,5 168,62 105,119 74,191 74,280 74,332 86,380 110,423 133,466 164,500 203,526 241,552 284,572 332,585 367,594 421,603 492,612 637,629 744,650 813,674 814,699 814,714 814,721 814,794 797,846 763,876 717,917 649,937 558,937 473,937 411,922 371,893 330,863 300,810 281,735 L 105,759 C 121,834 147,895 184,942 221,988 274,1024 343,1049 412,1074 493,1086 584,1086 675,1086 748,1075 805,1054 862,1033 903,1006 930,974 957,941 975,900 986,851 992,820 995,765 995,685 L 995,445 C 995,278 999,172 1007,128 1014,83 1029,41 1052,0 L 864,0 C 845,37 833,81 828,131 Z M 813,533 C 748,506 650,484 519,465 445,454 393,442 362,429 331,416 308,396 291,371 274,345 266,316 266,285 266,237 284,197 321,165 357,133 410,117 480,117 549,117 611,132 665,163 719,193 759,234 784,287 803,328 813,388 813,467 L 813,533 Z"/>
+   <glyph unicode="E" horiz-adv-x="1059" d="M 162,0 L 162,1466 1222,1466 1222,1293 356,1293 356,844 1167,844 1167,672 356,672 356,173 1256,173 1256,0 162,0 Z"/>
+   <glyph unicode="A" horiz-adv-x="1376" d="M -3,0 L 560,1466 769,1466 1369,0 1148,0 977,444 364,444 203,0 -3,0 Z M 420,602 L 917,602 764,1008 C 717,1131 683,1233 660,1312 641,1218 615,1125 581,1032 L 420,602 Z"/>
+  </font>
+ </defs>
+ <g visibility="visible" id="MasterSlide_1_Standard">
+  <desc>Master slide
+  </desc>
+  <rect fill="none" stroke="none" x="0" y="0" width="10500" height="14800"/>
+ </g>
+ <g visibility="visible" id="Slide_1_page8">
+  <g>
+   <path fill="none" stroke="rgb(238,238,238)" id="Drawing_1_0" stroke-width="106" stroke-linejoin="round" d="M 657,3738 L 697,11679"/>
+   <path fill="rgb(238,238,238)" stroke="none" id="Drawing_1_1" d="M 654,3200 L 477,3739 836,3738 654,3200 Z"/>
+   <path fill="rgb(238,238,238)" stroke="none" id="Drawing_1_2" d="M 700,12217 L 877,11678 518,11679 700,12217 Z"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(238,238,238)" id="Drawing_2_0" stroke-width="81" stroke-linejoin="round" stroke-dasharray="508,508,508,508" d="M 2600,3348 C 2879,6065 3298,6744 4449,6929 5600,7115 9926,7300 9926,7300"/>
+  </g>
+  <g id="Drawing_3">
+   <rect fill="none" stroke="none" x="234" y="1700" width="2167" height="1787"/>
+   <g fill="rgb(238,238,238)" stroke="none" font-family="Arial embedded" font-size="1129" font-style="normal" font-weight="400">
+    <text x="484" y="2849">E</text>
+   </g>
+   <g fill="rgb(238,238,238)" stroke="none" font-family="Arial embedded" font-size="655" font-style="normal" font-weight="400">
+    <text x="1238" y="3222">
+     <tspan x="1238 1602 1966">pot</tspan></text>
+   </g>
+  </g>
+  <g id="Drawing_4">
+   <rect fill="none" stroke="none" x="7790" y="6400" width="2311" height="802"/>
+   <g fill="rgb(238,238,238)" stroke="none" font-family="Arial embedded" font-size="493" font-style="normal" font-weight="400">
+    <text x="8040" y="6965">
+     <tspan x="8040 8366 8641 8887 9022 9297 9572">Abstand</tspan></text>
+   </g>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(238,238,238)" id="Drawing_5_0" stroke-width="106" stroke-linejoin="round" d="M 700,7700 L 10000,7700"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(51,153,255)" id="Drawing_6_0" stroke-width="106" stroke-linejoin="round" d="M 9700,8423 C 4737,8423 3989,9900 3513,9900 3037,9900 2221,9161 2085,6610 1949,4058 2017,4662 2017,4662"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(255,51,51)" id="Drawing_7_0" stroke-width="35" stroke-linejoin="round" d="M 7054,9055 L 7054,8751 6942,8751 7166,8650 7391,8751 7278,8751 7278,9055 7054,9055 Z"/>
+   <rect fill="none" stroke="none" x="6942" y="8650" width="449" height="405"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(255,51,51)" id="Drawing_8_0" stroke-width="35" stroke-linejoin="round" d="M 6336,9235 L 6336,8896 6224,8896 6448,8784 6673,8896 6560,8896 6560,9235 6336,9235 Z"/>
+   <rect fill="none" stroke="none" x="6224" y="8784" width="449" height="451"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(255,51,51)" id="Drawing_9_0" stroke-width="35" stroke-linejoin="round" d="M 5529,9457 L 5529,9086 5417,9086 5641,8963 5866,9086 5753,9086 5753,9457 5529,9457 Z"/>
+   <rect fill="none" stroke="none" x="5417" y="8964" width="449" height="494"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(255,51,51)" id="Drawing_10_0" stroke-width="35" stroke-linejoin="round" d="M 4776,9727 L 4776,9357 4653,9357 4900,9234 5147,9357 5023,9357 5023,9727 4776,9727 Z"/>
+   <rect fill="none" stroke="none" x="4654" y="9234" width="494" height="493"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(255,51,51)" id="Drawing_11_0" stroke-width="35" stroke-linejoin="round" d="M 3936,10085 L 3936,9647 3802,9647 4071,9501 4341,9647 4206,9647 4206,10085 3936,10085 Z"/>
+   <rect fill="none" stroke="none" x="3802" y="9502" width="539" height="584"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(255,51,51)" id="Drawing_12_0" stroke-width="35" stroke-linejoin="round" d="M 2837,10668 L 2837,9859 2635,9859 3039,9590 3444,9859 3241,9859 3241,10668 2837,10668 Z"/>
+   <rect fill="none" stroke="none" x="2635" y="9591" width="809" height="1078"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(255,51,51)" id="Drawing_13_0" stroke-width="35" stroke-linejoin="round" d="M 1458,11655 L 1458,7113 1200,7113 1716,5599 2233,7113 1974,7113 1974,11655 1458,11655 Z"/>
+   <rect fill="none" stroke="none" x="1200" y="5600" width="1033" height="6056"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(255,51,51)" id="Drawing_14_0" stroke-width="35" stroke-linejoin="round" d="M 7760,8965 L 7760,8661 7659,8661 7861,8560 8064,8661 7962,8661 7962,8965 7760,8965 Z"/>
+   <rect fill="none" stroke="none" x="7659" y="8560" width="405" height="405"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(255,51,51)" id="Drawing_15_0" stroke-width="35" stroke-linejoin="round" d="M 9644,8696 L 9644,8527 9543,8527 9745,8471 9948,8527 9846,8527 9846,8696 9644,8696 Z"/>
+   <rect fill="none" stroke="none" x="9543" y="8471" width="405" height="225"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(255,51,51)" id="Drawing_16_0" stroke-width="35" stroke-linejoin="round" d="M 8388,8875 L 8388,8605 8287,8605 8489,8515 8691,8605 8590,8605 8590,8875 8388,8875 Z"/>
+   <rect fill="none" stroke="none" x="8288" y="8516" width="404" height="360"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(255,51,51)" id="Drawing_17_0" stroke-width="35" stroke-linejoin="round" d="M 9015,8784 L 9015,8548 8914,8548 9116,8470 9318,8548 9217,8548 9217,8784 9015,8784 Z"/>
+   <rect fill="none" stroke="none" x="8915" y="8471" width="404" height="314"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,153,0)" id="Drawing_18_0" stroke-width="35" stroke-linejoin="round" d="M 3264,7708 L 3264,9928 3533,9928 2994,10668 2455,9928 2725,9928 2725,7708 3264,7708 Z"/>
+   <rect fill="none" stroke="none" x="2455" y="7709" width="1079" height="2961"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,153,0)" id="Drawing_19_0" stroke-width="35" stroke-linejoin="round" d="M 4284,7708 L 4284,9491 4519,9491 4048,10085 3576,9491 3812,9491 3812,7708 4284,7708 Z"/>
+   <rect fill="none" stroke="none" x="3576" y="7709" width="944" height="2378"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,153,0)" id="Drawing_20_0" stroke-width="35" stroke-linejoin="round" d="M 5070,7708 L 5070,9222 5238,9222 4901,9726 4563,9222 4732,9222 4732,7708 5070,7708 Z"/>
+   <rect fill="none" stroke="none" x="4563" y="7709" width="676" height="2019"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,153,51)" id="Drawing_21_0" stroke-width="35" stroke-linejoin="round" d="M 5832,7708 L 5832,9020 6000,9020 5663,9457 5326,9020 5495,9020 5495,7708 5832,7708 Z"/>
+   <rect fill="none" stroke="none" x="5326" y="7709" width="675" height="1750"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,153,51)" id="Drawing_22_0" stroke-width="35" stroke-linejoin="round" d="M 6639,7708 L 6639,8853 6807,8853 6470,9234 6133,8853 6302,8853 6302,7708 6639,7708 Z"/>
+   <rect fill="none" stroke="none" x="6133" y="7709" width="675" height="1527"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,153,51)" id="Drawing_23_0" stroke-width="35" stroke-linejoin="round" d="M 7334,7708 L 7334,8718 7479,8718 7188,9054 6896,8718 7042,8718 7042,7708 7334,7708 Z"/>
+   <rect fill="none" stroke="none" x="6896" y="7709" width="584" height="1347"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,153,0)" id="Drawing_24_0" stroke-width="35" stroke-linejoin="round" d="M 8018,7708 L 8018,8617 8152,8617 7883,8919 7613,8617 7748,8617 7748,7708 8018,7708 Z"/>
+   <rect fill="none" stroke="none" x="7613" y="7709" width="540" height="1212"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,153,0)" id="Drawing_25_0" stroke-width="35" stroke-linejoin="round" d="M 8590,7708 L 8590,8549 8691,8549 8489,8829 8287,8549 8388,8549 8388,7708 8590,7708 Z"/>
+   <rect fill="none" stroke="none" x="8287" y="7709" width="405" height="1122"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,153,0)" id="Drawing_26_0" stroke-width="35" stroke-linejoin="round" d="M 9228,7708 L 9228,8482 9340,8482 9115,8740 8890,8482 9003,8482 9003,7708 9228,7708 Z"/>
+   <rect fill="none" stroke="none" x="8890" y="7709" width="451" height="1033"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,153,0)" id="Drawing_27_0" stroke-width="35" stroke-linejoin="round" d="M 9846,7708 L 9846,8449 9947,8449 9745,8695 9542,8449 9644,8449 9644,7708 9846,7708 Z"/>
+   <rect fill="none" stroke="none" x="9542" y="7709" width="406" height="988"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,153,0)" id="Drawing_28_0" stroke-width="35" stroke-linejoin="round" d="M 1974,7708 L 1974,10702 2232,10702 1716,11700 1199,10702 1458,10702 1458,7708 1974,7708 Z"/>
+   <rect fill="none" stroke="none" x="1199" y="7709" width="1034" height="3993"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(255,51,51)" id="Drawing_29_0" stroke-width="35" stroke-linejoin="round" d="M 2181,10971 L 2181,9342 1979,9342 2383,8800 2787,9342 2585,9342 2585,10971 2181,10971 Z"/>
+   <rect fill="none" stroke="none" x="1980" y="8800" width="808" height="2171"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(238,238,238)" id="Drawing_30_0" stroke-width="81" stroke-linejoin="round" stroke-dasharray="508,508,508,508" d="M 2303,11159 C 5210,9063 9715,8689 9715,8689"/>
+  </g>
+ </g>
+</svg>
