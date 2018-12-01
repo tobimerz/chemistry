@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg version="1.2" baseProfile="tiny" width="105mm" height="80mm" viewBox="0 0 10500 8000" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+ <g visibility="visible" id="MasterSlide_1_Standard">
+  <desc>Master slide
+  </desc>
+  <rect fill="none" stroke="none" x="0" y="0" width="10500" height="8000"/>
+ </g>
+ <g visibility="visible" id="Slide_1_page11">
+  <g>
+   <path fill="rgb(255,51,0)" stroke="none" d="M 1000,3851 L 3000,2700 3000,5001 1000,3851 Z"/>
+   <rect fill="none" stroke="none" x="1000" y="2700" width="2001" height="2302"/>
+  </g>
+  <g>
+   <path fill="rgb(255,51,0)" stroke="none" d="M 3000,4400 L 3000,3300 7800,3300 7800,4400 3000,4400 Z"/>
+   <rect fill="none" stroke="none" x="3000" y="3300" width="4801" height="1101"/>
+  </g>
+ </g>
+</svg>
